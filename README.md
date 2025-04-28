@@ -25,7 +25,7 @@ It helps ethical hackers, OSINT researchers, and cybersecurity professionals eas
 2. Install `fpdf2` if not already:
 
 ```bash
-pip install fpdf2 --break-system-packages
+pip install fpdf2
 
 run the script: python3 generatelog.py
 A new PDF will be generated automatically with a filename like: DISCOVERY-20250428-0001.pdf in logs
