@@ -1,6 +1,6 @@
 # EthicalLogger
 
-**EthicalLogger** is a very basic Python script for quickly generating short, professional PDF reports of ethical discovery activities.
+**EthicalLogger** is a very basic Python script for quickly generating very short, professional PDF reports of ethical discovery activities.
 
 It helps ethical hackers, OSINT researchers, and cybersecurity professionals easily log essential details like the discovery date, method, description, actions taken, and confirm responsible behavior through a simple checklist.
 
