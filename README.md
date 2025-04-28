@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/172dac6f-ddc8-4f73-80e0-6faf83add84b)
+
+
 # EthicalLogger
 
 **EthicalLogger** is a very basic Python script for quickly generating very short, professional PDF reports of ethical discovery activities.
